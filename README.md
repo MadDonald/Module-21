@@ -1,48 +1,41 @@
-#Book Discovery: A Google Books App
-##Overview
-License: MIT
-Website Screenshot:
-Visit Website
+# Google Books App
 
-##The Drive
-The primary aim was to transform an application from its initial RESTful structure to a robust MERN stack configuration.
+## Description
 
-##The Creation
-This tool was designed to assist users in uncovering books that align with their interests.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##The Solution
-For passionate book enthusiasts, the app provides a straightforward and efficient method for exploring and identifying new reads.
+## Table of Contents:
 
-##Lessons Gained
-The project allowed me to comprehend the distinctiveness between these two approaches. The primary distinction between a RESTful and a MERN application lies in their purpose: RESTful applications are designed to build APIs, while MERN stack applications target the development of comprehensive web applications. RESTful apps operate in a stateless manner and leverage HTTP requests for server interaction, while MERN stack applications utilize MongoDB, Express.js, React.js, and Node.js to craft intricate web solutions.
+[1. Installation](#Installation)
 
-##Contents:
-1. Setting Up
+[2. Usage](#Usage)
 
-2. How To Use
+[3. License](#License)
 
-3. Licensing
+[4. Contribution](#Contribution)
 
-4. Contributing
+[5. Tests](#Tests)
 
-5. Testing
+[6. Questions](#Questions)
+        
+## Installation:
 
-6. For Any Queries
+Click on the deployed website link.
 
-##Installation:
-You can access the tool via the website.
+## Usage:
 
-##Usage:
-Sign up to create an account, search for books, and bookmark those that pique your interest.
+Create an account, search for books and save the books you have an interest in. 
 
-##License:
-License: MIT
+## License:
 
-##Contribution:
-This application is open source, meaning that anyone is welcome to contribute, replicate, or modify the code. Feel free to use it as you see fit.
 
-##Tests:
-Not applicable
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##Questions:
-Email - jacobmaddonald@gmail.com
+## Contribution:
+
+Please contact me if you are interested in contributing.
+
+## Tests:
+
+None
+
