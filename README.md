@@ -1,7 +1,7 @@
 # Google Books App
 
 ## Link
-https://dashboard.heroku.com/apps/book-searcher2023
+[https://dashboard.heroku.com/apps/book-searcher2023](https://book-searcher2023.herokuapp.com)
 
 ## Description
 
